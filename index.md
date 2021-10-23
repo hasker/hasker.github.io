@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Welcome
 ---
 
-# Investment Strategies #
+## Investment Strategies ##
 - Commodities arbitrage
+
+## Posts ##
 
