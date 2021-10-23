@@ -1,0 +1,12 @@
+title: YuHasker Family Office
+author: Geoffrey YuHasker
+email: yuhasker@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The YuHasker Family Office is the investing vehicle of Betty and Geoffrey YuHasker.
+theme: minima
+
+# social links
+twitter_username: ghasker
+github_username: hasker
+
+show_excerpts: true # set to false to remove excerpts on the homepage
