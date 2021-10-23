@@ -1,5 +1,6 @@
 ---
-title: "YuHasker Family Office"
+layout: home
+title: "About"
 ---
 
 # Investment Strategies #
