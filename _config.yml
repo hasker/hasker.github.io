@@ -1,13 +1,10 @@
 title: YuHasker
-author:
-  name: Betty & Geoffrey YuHasker
-  email: yuhasker@gmail.com
+author: Betty & Geoffrey YuHasker
+email: yuhasker@gmail.com
 description: >
-  Homepage of the YuHasker Family office
+  Homepage of the YuHasker Family Office
 theme: minima
-minima:
-  social_links:
-    linkedin: betty-yu-yuhasker-1607282
-    twitter: ghasker
-    github: hasker
+linkedin: betty-yu-yuhasker-1607282
+twitter: ghasker
+github: hasker
 

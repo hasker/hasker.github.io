@@ -2,5 +2,5 @@
 layout: home
 ---
 
-## Hello World
-Hello I am dumping some text here!
+The YuHasker Family Office serves as the investing are of Betty and Geoffrey YuHasker.
+
