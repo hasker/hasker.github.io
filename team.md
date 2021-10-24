@@ -10,12 +10,12 @@ layout: page
 ## Geoffrey YuHasker
 
 Geoff has spent his career at the intersection of computer science and
-and finance. Most recently, he has contributed to ads ranking and auction
+finance. Most recently, he has contributed to ads ranking and auction
 mechanisms at two social networks. Prior to that, he traded rates
 derivates throughout the credit crisis and spent time pursuing a PhD in computer
 security.
 
-The combination of mechanism design, computation finance, and cryptography in
+The combination of mechanism design, computational finance, and cryptography in
 DeFi especially excites him, leading to a number of recent investments.
 This has led him to recently start [blogging](https://yuhasker.substack.com/)
 on the topic.
