@@ -1,6 +1,7 @@
 title: YuHasker
-author: Geoffrey & Betty YuHasker
+author: Geoffrey YuHasker
 email: yuhasker@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello World!
 remote_theme: piharpi/jekyll-klise
+theme: klise
