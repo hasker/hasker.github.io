@@ -9,6 +9,6 @@ Geoffrey YuHasker with a focus on absolute returns.
 - crypto
 - defi
 - venture capital
-- direct angel investmenting
+- direct angel investing
 - arbitrage
 - public equities
