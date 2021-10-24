@@ -2,6 +2,7 @@
 title: Team
 layout: page
 ---
+![Betty and Geoff waving hi from side](/assets/side_hello.png)
 
 ## Betty YuHasker
 - [LinkedIn](https://www.linkedin.com/in/betty-yuhasker/)
