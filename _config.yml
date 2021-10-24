@@ -1,7 +1,13 @@
 title: YuHasker
-author: Geoffrey YuHasker
-email: yuhasker@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hello World!
-remote_theme: piharpi/jekyll-klise
-theme: klise
+author:
+  name: Betty & Geoffrey YuHasker
+  email: yuhasker@gmail.com
+description: >
+  Homepage of the YuHasker Family office
+theme: minima
+minima:
+  social_links:
+    linkedin: betty-yu-yuhasker-1607282
+    twitter: ghasker
+    github: hasker
+
