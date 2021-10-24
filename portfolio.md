@@ -2,6 +2,8 @@
 title: Portfolio
 layout: page
 ---
+![Betty and Geoff with pencil](/assets/pencil.png)
+
 
 ## Focus
 Our angel portfolio primarily focuses on pre-seed through series A investments
