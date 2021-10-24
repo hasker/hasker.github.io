@@ -4,7 +4,9 @@ email: yuhasker@gmail.com
 description: >
   Homepage of the YuHasker Family Office
 theme: minima
-linkedin: betty-yu-yuhasker-1607282
-twitter: ghasker
-github: hasker
+minima:
+  social_links:
+    linkedin: betty-yu-yuhasker-1607282
+    twitter: ghasker
+    github: hasker
 
