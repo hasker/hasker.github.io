@@ -13,7 +13,6 @@ in
 - marketplaces
 - fintech
 - SaaS
-- India
 
 but we often make exceptions to support the journey of those in our
 network or companies with great vibes. If you think your company fits feel free
