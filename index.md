@@ -2,5 +2,13 @@
 layout: home
 ---
 
-The YuHasker Family Office serves as the investing are of Betty and Geoffrey YuHasker.
+The YuHasker Family Office functions as the investing arm of Betty and
+Geoffrey YuHasker with a focus on absolute returns.
 
+## Core Strategies
+- crypto
+- defi
+- venture capital
+- direct angel investmenting
+- arbitrage
+- public equities
